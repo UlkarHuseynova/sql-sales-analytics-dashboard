@@ -14,3 +14,4 @@
 │   ├── dashboard.pbix
 │   └── visuals/
 └── README.md
+<img width="1429" height="802" alt="image" src="https://github.com/user-attachments/assets/1e389331-2096-4cd9-8cd8-465b73ca088c" />
